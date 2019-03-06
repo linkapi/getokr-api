@@ -21,7 +21,7 @@ module.exports = (companies, oauthClients) => (
       oauthClients: [_.find(oauthClients, oauthClient => oauthClient.clientId === 'site')]
     }),
     new User({
-      username: 'icaro.cleto@linkapi.com.br',
+      username: 'icaro.sousa@linkapi.com.br',
       password: bcrypt.hashSync('123', bcrypt.genSaltSync(8), null),
       firstName: 'Icaro',
       lastName: 'Sousa',

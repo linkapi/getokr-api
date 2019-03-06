@@ -9,7 +9,7 @@ GetOkr-API is the Back-end part of GetOkr, an OKR software used by LinkApi, FCam
 * Authentication - OAuth 2.0
 
 ## Requirements
-* node __6.11.5__
+* node __8.11.1__
 * npm __3.10.10__
 
 ## Installation

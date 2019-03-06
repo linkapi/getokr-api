@@ -1,4 +1,4 @@
-FROM node:6
+FROM node:8.11.1
 
 RUN mkdir /www
 
